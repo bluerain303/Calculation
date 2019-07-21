@@ -1,0 +1,6 @@
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_Services\bin\Release\WPF_Services.dll
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_Services\bin\Release\WPF_Services.pdb
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_Services\obj\Release\WPF_Services.csprojAssemblyReference.cache
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_Services\obj\Release\WPF_Services.csproj.CoreCompileInputs.cache
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_Services\obj\Release\WPF_Services.dll
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_Services\obj\Release\WPF_Services.pdb

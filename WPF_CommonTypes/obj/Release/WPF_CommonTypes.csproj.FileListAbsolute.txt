@@ -1,0 +1,6 @@
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_CommonTypes\bin\Release\WPF_CommonTypes.dll
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_CommonTypes\bin\Release\WPF_CommonTypes.pdb
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_CommonTypes\obj\Release\WPF_CommonTypes.csprojAssemblyReference.cache
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_CommonTypes\obj\Release\WPF_CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_CommonTypes\obj\Release\WPF_CommonTypes.dll
+C:\Users\yishil\Documents\Local_Mixosense\Programming\sw-tools-sensor_viewer\WPF_CommonTypes\obj\Release\WPF_CommonTypes.pdb
